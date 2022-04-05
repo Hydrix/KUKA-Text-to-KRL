@@ -1,0 +1,13 @@
+relpos = {X 0, Y 0, Z 0, A 0, B 0, C 0
+relpos.x=2
+relpos.y=3
+LIN_REL relpos
+relpos = {X 0, Y 0, Z 0, A 0, B 0, C 0}
+relpos.x=4
+relpos.y=5
+LIN_REL relpos
+relpos = {X 0, Y 0, Z 0, A 0, B 0, C 0}
+relpos.x=6
+relpos.y=7
+LIN_REL relpos
+relpos = {X 0, Y 0, Z 0, A 0, B 0, C 0}
